@@ -20,7 +20,7 @@ header.navbar-sticky-on,
   opacity: 1;
 }
 .modal-dialog.modal-notify.modal-info .modal-header {
-  background-color: #887904;
+  background-color: #bd7487;
 }
 .modal-dialog .modal-content .modal-header {
   border-top-left-radius: 0.125rem;
@@ -169,7 +169,7 @@ a{
     transition: opacity .25s ease-out, height .15s ease;
     cursor: default;
     user-select: none;
-    background-color: #887904 !important;
+    background-color: #bd7487 !important;
   }
   
   .sticky {
@@ -190,24 +190,24 @@ a{
   
   .searchTerm {
     width: 100%;
-    border: 3px solid #887904;
+    border: 3px solid #bd7487;
     border-right: none;
     padding: 5px;
     height: 36.5px;
     border-radius: 5px 0 0 5px;
     outline: none;
-    color: #887904;
+    color: #bd7487;
   }
   
   .searchTerm:focus{
-    color: #887904;
+    color: #bd7487;
   }
   
   .searchButton {
     width: 40px;
     height: 36px;
-    border: 1px solid #887904;
-    background: #887904;
+    border: 1px solid #bd7487;
+    background: #bd7487;
     text-align: center;
     color: #fff;
     border-radius: 0 5px 5px 0;
@@ -292,7 +292,7 @@ a{
 
 .dropdown-item.active, .dropdown-item:active{
   background-color: #fff !important;
-  color: #887904;
+  color: #bd7487;
   
 }
 
@@ -300,7 +300,7 @@ a{
 
 .card1{
   margin: 30px;
-  background-color: #887904;
+  background-color: #bd7487;
     font-family: calibri, 'Open Sans', sans-serif;
     font-size: 18px;
     padding: 25px;
@@ -341,7 +341,7 @@ a{
 }
 
 .btn-outline-info {
-  border-color: #887904;
+  border-color: #bd7487;
 }
 @media (min-width:320px) {
   .full-width-header .rs-header .logo-part img {
